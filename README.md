@@ -1,1 +1,1 @@
-# landing-page-project-
+I'm going do build a simple landing page using my Html and Css skills. 
