@@ -1,1 +1,1 @@
-I'm going do build a simple landing page using my Html and Css skills. 
+I'm build a simple landing page using my Html and Css skills. 
